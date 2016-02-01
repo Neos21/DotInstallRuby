@@ -16,5 +16,5 @@ p t
 t += 10
 p t
 
-# strftime()
+# strftime() : String Format Time
 p t.strftime("Updated: %Y-%m-%d")
