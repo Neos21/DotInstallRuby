@@ -1,6 +1,6 @@
 # DotInstallRuby
 
-Ruby の勉強と GitHub 初リポジトリの練習を兼ねて。
+Ruby の勉強と GitHub 初リポジトリの練習を兼ねたリポジトリ。
 
 [ドットインストール](http://dotinstall.com/)の「[Ruby 入門](http://dotinstall.com/lessons/basic_ruby_v2)」を見ながら書いた Ruby スクリプトを、  
 書籍「[GitHub 実践入門](http://gihyo.jp/book/2014/978-4-7741-6366-6)」を読みながら GitHub に公開しています。
