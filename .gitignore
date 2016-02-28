@@ -2,3 +2,6 @@
 
 # Memo.txt は無視する
 Memo.txt
+
+# gh-pages フォルダを無視
+/gh-pages
