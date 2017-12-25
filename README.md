@@ -2,10 +2,10 @@
 
 Ruby の勉強と GitHub 初リポジトリの練習を兼ねたリポジトリです。
 
-[ドットインストール](http://dotinstall.com/)の「[Ruby 入門](http://dotinstall.com/lessons/basic_ruby_v2)」を見ながら書いた Ruby スクリプトを、  
-書籍「[GitHub 実践入門](http://gihyo.jp/book/2014/978-4-7741-6366-6)」を読みながら GitHub に公開しています。
+[ドットインストール](http://dotinstall.com/)の「[Ruby 入門](http://dotinstall.com/lessons/basic_ruby_v2)」を見ながら書いた Ruby スクリプトを、書籍「[GitHub 実践入門](http://gihyo.jp/book/2014/978-4-7741-6366-6)」を読みながら GitHub に公開しています。
 
-# お勉強したこと
+
+## お勉強したこと
 
 |ファイル名|内容|
 |----------|----|
@@ -26,3 +26,18 @@ Ruby の勉強と GitHub 初リポジトリの練習を兼ねたリポジトリ�
 |Lesson15.rb|クラスの継承 : `class 子クラス < 親クラス`|
 |Lesson16.rb|アクセサ (getter / setter) : `attr_accessor: 変数名`, attr_reader (getter), attr_writer (setter)|
 |Lesson17.rb|Time クラス : #strftime()|
+
+
+## Author
+
+[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+
+
+## Links
+
+- [Neo's World](http://neo.s21.xrea.com/)
+- [Corredor](http://neos21.hatenablog.com/)
+- [Murga](http://neos21.hatenablog.jp/)
+- [El Mylar](http://neos21.hateblo.jp/)
+- [Bit-Archer](http://bit-archer.hatenablog.com/)
+- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
