@@ -30,7 +30,7 @@ Ruby の勉強と GitHub 初リポジトリの練習を兼ねたリポジトリ�
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
 
 
 ## Links
