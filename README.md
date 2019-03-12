@@ -1,4 +1,4 @@
-# DotInstallRuby
+# Dot Install Ruby
 
 Ruby の勉強と GitHub 初リポジトリの練習を兼ねたリポジトリです。
 

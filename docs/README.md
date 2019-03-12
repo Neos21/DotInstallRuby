@@ -1,8 +1,8 @@
-# DotInstallRuby の GitHub Pages
+# Dot Install Ruby の GitHub Pages
 
-[DotInstallRuby](https://github.com/Neos21/DotInstallRuby/) リポジトリの GitHub Pages です。
+[Dot Install Ruby](https://github.com/Neos21/dot-install-ruby/) リポジトリの GitHub Pages です。
 
-__[Enter This Website](http://neos21.github.io/DotInstallRuby/)__
+__[Enter This Website](http://neos21.github.io/dot-install-ruby/)__
 
 
 ## Author
@@ -16,5 +16,5 @@ __[Enter This Website](http://neos21.github.io/DotInstallRuby/)__
 - [Corredor](http://neos21.hatenablog.com/)
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
-- [Bit-Archer](http://bit-archer.hatenablog.com/)
+- [Neo's GitHub Pages](https://neos21.github.io/)
 - [GitHub - Neos21](https://github.com/Neos21/)
