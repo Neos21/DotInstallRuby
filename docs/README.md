@@ -7,7 +7,7 @@ __[Enter This Website](http://neos21.github.io/dot-install-ruby/)__
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 
 ## Links
