@@ -2,7 +2,7 @@
 
 [Dot Install Ruby](https://github.com/Neos21/dot-install-ruby/) リポジトリの GitHub Pages です。
 
-__[Enter This Website](http://neos21.github.io/dot-install-ruby/)__
+__[Enter This Website](https://neos21.github.io/dot-install-ruby/)__
 
 
 ## Author
